@@ -1,6 +1,7 @@
 # Example_Architecture_App
 First submission to github.
 
-Working through this project on a YouTube tutorial series. 
+Workign through MVVM tutorial for this project.
+Learning beginnings of Github.
 
-Will use as the framework for a larger project for uni. 
+Will use MVVM as the framework for a mobile application project for uni.
